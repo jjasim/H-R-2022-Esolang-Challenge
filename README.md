@@ -37,7 +37,7 @@ Programs have to be working ones. Prize is for most number of languages solved.
 ![alt text](https://github.com/jjasim/H-R-2022-Esolang-Challenge/blob/main/images/Cow2.PNG) <br />
 [Source Code](https://github.com/jjasim/H-R-2022-Esolang-Challenge/blob/main/code/code.cow)
 ### Emojicode
-![alt text](https://github.com/jjasim/H-R-2022-Esolang-Challenge/blob/main/images/Emojicode_2.PNG)
+![alt text](https://github.com/jjasim/H-R-2022-Esolang-Challenge/blob/main/images/Emojicode_2.PNG) <br />
 [Source Code](https://github.com/jjasim/H-R-2022-Esolang-Challenge/blob/main/code/code.emojicode)
 ### Forth
 ![alt text](https://github.com/jjasim/H-R-2022-Esolang-Challenge/blob/main/images/forth.PNG)
