@@ -12,6 +12,7 @@ I personally had a great time working on this challenge especially given some of
 Theme: Draw your New Year's Resolution
 
 You may only use an esoteric language from the following list:
+
 Forth
 LOLCODE
 BrainFuck
