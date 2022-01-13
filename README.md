@@ -31,6 +31,7 @@ Programs have to be working ones. Prize is for most number of languages solved.
 
 ## My Submissions
 ### BrainF_ck
+![alt text](https://github.com/jjasim/H-R-2022-Esolang-Challenge/blob/main/images/Brainfuck.PNG)
 [Code](https://github.com/jjasim/H-R-2022-Esolang-Challenge/blob/main/code/code.brainfuck)
 ### Cow
 [Code](https://github.com/jjasim/H-R-2022-Esolang-Challenge/blob/main/code/code.cow)
