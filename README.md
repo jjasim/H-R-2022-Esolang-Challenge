@@ -7,3 +7,23 @@
 
 So as part of the hackathon, the organisers also set up the individual Esolang challenge along side the group projects. So within the 24hr hackathon period, we had to pickup as many crazy Esolangs as possible to complete the task. 
 I personally had a great time working on this challenge especially given some of the hilarious languages we had to work with. So i'll share the task and my winning code down below just for the fun of it. 
+
+## Task
+Theme: Draw your New Year's Resolution
+
+You may only use an esoteric language from the following list:
+Forth
+LOLCODE
+BrainFuck
+Emojicode
+Bloop
+Unlambda
+Piet
+Wenyan
+Rockstar
+Shakespeare
+J
+Cow
+Ook
+
+Programs have to be working ones.
