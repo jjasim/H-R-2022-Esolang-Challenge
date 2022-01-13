@@ -34,16 +34,23 @@ Programs have to be working ones. Prize is for most number of languages solved.
 ![alt text](https://github.com/jjasim/H-R-2022-Esolang-Challenge/blob/main/images/Brainfuck.PNG)
 [Code](https://github.com/jjasim/H-R-2022-Esolang-Challenge/blob/main/code/code.brainfuck)
 ### Cow
+![alt text](https://github.com/jjasim/H-R-2022-Esolang-Challenge/blob/main/images/Cow2.PNG)
 [Code](https://github.com/jjasim/H-R-2022-Esolang-Challenge/blob/main/code/code.cow)
 ### Emojicode
+![alt text](https://github.com/jjasim/H-R-2022-Esolang-Challenge/blob/main/images/Emojicode_2.PNG)
 [Code](https://github.com/jjasim/H-R-2022-Esolang-Challenge/blob/main/code/code.emojicode)
 ### Forth
+![alt text](https://github.com/jjasim/H-R-2022-Esolang-Challenge/blob/main/images/forth.PNG)
 [Code](https://github.com/jjasim/H-R-2022-Esolang-Challenge/blob/main/code/code.forth)
 ### J
+![alt text](https://github.com/jjasim/H-R-2022-Esolang-Challenge/blob/main/images/J.PNG)
 [Code](https://github.com/jjasim/H-R-2022-Esolang-Challenge/blob/main/code/code.j)
 ### lolcode
+![alt text](https://github.com/jjasim/H-R-2022-Esolang-Challenge/blob/main/images/lolcode.PNG)
 [Code](https://github.com/jjasim/H-R-2022-Esolang-Challenge/blob/main/code/code.lolcode)
 ### Rockstar
+![alt text](https://github.com/jjasim/H-R-2022-Esolang-Challenge/blob/main/images/Rockstar.PNG)
 [Code](https://github.com/jjasim/H-R-2022-Esolang-Challenge/blob/main/code/code.rockstar)
 ### unlambda
+![alt text](https://github.com/jjasim/H-R-2022-Esolang-Challenge/blob/main/images/unlambda_2.PNG)
 [Code](https://github.com/jjasim/H-R-2022-Esolang-Challenge/blob/main/code/code.unlambda)
