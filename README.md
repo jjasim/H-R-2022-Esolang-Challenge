@@ -1,4 +1,4 @@
 # H-R-2022-Esolang-Challenge
 
-> ### Esoteric 
-> 
+> ### def. Esoteric Language (shortened to Esolang)
+>         /ɛsəʊˈtɛrɪk ˈlæŋgwɪʤ/ **noun**
