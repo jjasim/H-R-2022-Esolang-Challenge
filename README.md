@@ -31,17 +31,18 @@ Programs have to be working ones. Prize is for most number of languages solved.
 
 ## My Submissions
 ### BrainF_ck
-
+[Code](https://github.com/jjasim/H-R-2022-Esolang-Challenge/blob/main/code/code.brainfuck)
 ### Cow
-
+[Code](https://github.com/jjasim/H-R-2022-Esolang-Challenge/blob/main/code/code.cow)
 ### Emojicode
-
+[Code](https://github.com/jjasim/H-R-2022-Esolang-Challenge/blob/main/code/code.emojicode)
 ### Forth
-
+[Code](https://github.com/jjasim/H-R-2022-Esolang-Challenge/blob/main/code/code.forth)
 ### J
-
+[Code](https://github.com/jjasim/H-R-2022-Esolang-Challenge/blob/main/code/code.j)
 ### lolcode
-
+[Code](https://github.com/jjasim/H-R-2022-Esolang-Challenge/blob/main/code/code.lolcode)
 ### Rockstar
-
+[Code](https://github.com/jjasim/H-R-2022-Esolang-Challenge/blob/main/code/code.rockstar)
 ### unlambda
+[Code](https://github.com/jjasim/H-R-2022-Esolang-Challenge/blob/main/code/code.unlambda)
