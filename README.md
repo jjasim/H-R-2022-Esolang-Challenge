@@ -28,3 +28,20 @@ Cow
 Ook
 
 Programs have to be working ones. Prize is for most number of languages solved.
+
+## My Submissions
+### BrainFuck
+
+### Cow
+
+### Emojicode
+
+### Forth
+
+### J
+
+### lolcode
+
+### Rockstar
+
+### unlambda
