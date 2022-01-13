@@ -15,7 +15,7 @@ You may only use an esoteric language from the following list:
 
 Forth
 LOLCODE
-BrainFuck
+BrainF_ck
 Emojicode
 Bloop
 Unlambda
@@ -30,7 +30,7 @@ Ook
 Programs have to be working ones. Prize is for most number of languages solved.
 
 ## My Submissions
-### BrainFuck
+### BrainF_ck
 
 ### Cow
 
